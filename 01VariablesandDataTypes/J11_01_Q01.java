@@ -5,7 +5,7 @@ these 3 numbers.
 
 import java.util.*;
 
-public class Q01 {
+public class J11_01_Q01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

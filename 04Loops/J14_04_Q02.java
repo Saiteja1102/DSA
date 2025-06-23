@@ -5,7 +5,7 @@ even and odd integers.
 
 import java.util.Scanner;
 
-public class Q02 {
+public class J14_04_Q02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int evenSum = 0;

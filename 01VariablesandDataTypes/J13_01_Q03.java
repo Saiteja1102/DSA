@@ -6,7 +6,7 @@ an eraser. You have to output the total cost of the items back to the user as th
 
 import java.util.Scanner;
 
-public class Q03 {
+public class J13_01_Q03 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the price of pencil: ");
